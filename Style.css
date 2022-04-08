@@ -1,0 +1,13 @@
+body{
+  background-color: #e9f5a6;
+}
+
+.overview{
+  background-color:#add0f0;
+  color: black;
+  border: 1px solid black;
+  padding: 2px;
+  width: 350px;
+  height: 150px;
+  text-align: justify;
+}
